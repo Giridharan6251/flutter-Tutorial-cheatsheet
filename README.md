@@ -1,4 +1,6 @@
-# Flutter-Course-Resources
+# Flutter-Cheatsheet
+
+![Flutter-Cheatsheet](https://github.com/giridharan-venkat/just-garbage/blob/main/flutter-cheatsheet%20(1).png)
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
