@@ -1,6 +1,6 @@
 # Flutter-Cheatsheet
 
-![Flutter-Cheatsheet](https://github.com/giridharan-venkat/just-garbage/blob/main/flutter-cheatsheet%20(1).png)
+![Flutter-Cheatsheet](https://github.com/giridharan-dev/Flutter-Cheatsheet/blob/main/flutter-cheatsheet%201.png)
 
 
 Table of contents
