@@ -2,22 +2,6 @@
 
 ![Flutter-Cheatsheet](https://github.com/giridharan-venkat/just-garbage/blob/main/flutter-cheatsheet%20(1).png)
 
-Flutter cheat sheetfooter.jsx-2267996273{font-size:0.8em;box-sizing:border-box;margin-top:5em;} .footer-row.jsx-2267996273{margin-top:0.3em;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;} .footer-row.jsx-2267996273>a.jsx-2267996273{margin:0 10px;} .credits.jsx-2267996273{line-height:0;} .gh-link.jsx-2267996273{margin-left:0.3em;} .gh-link.jsx-2267996273:hover>path.jsx-2267996273{fill:#cc99cd;} .lesnitsky-badge.jsx-2267996273{background:black;display:inline-block;padding:0.2em 1em;border-radius:8px;} .footer-row.jsx-2267996273>a.lesnitsky-badge.jsx-2267996273{margin-left:0;}header.jsx-3720187894{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;} .github-button-container.jsx-3720187894{line-height:1em;height:28px;margin-right:0.5em;} .github-button-container.jsx-3720187894>a.jsx-3720187894{visibility:hidden;} h1.jsx-3720187894{width:auto;font-size:2em;margin-right:0.5em;} h2.jsx-3720187894{font-size:1.2em;color:white;margin-top:1.5em;} section.jsx-3720187894{min-height:100vh;font-size:24px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;-webkit-align-item:center;-webkit-box-align-item:center;-ms-flex-align-item:center;align-item:center;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding:2em 0;box-sizing:border-box;} small.jsx-3720187894{color:gray;border-left:3px solid gray;padding-left:20px;}.back-to-toc.jsx-941151069{position:fixed;bottom:1em;right:1em;padding:1em;-webkit-align-self:flex-end;-ms-flex-item-align:end;align-self:flex-end;background:#424141;-webkit-transition:-webkit-transform 0.3s;-webkit-transition:transform 0.3s;transition:transform 0.3s;color:white;border-radius:8px;}body{margin:0;background:#212121;color:white;font-family:'Roboto Slab',serif;font-size:18px;} h1,h2{color:#cc99cd;} h3{color:#6196cc;} h1,h2{width:100%;} blockquote{border-left:2px dotted gray;margin:0;padding:0 1em;color:gray;} .app{width:90%;margin:0 auto;} .examples-container>div>div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;} .examples-container>div>div>\*{width:100%;} .toc-container>h2:empty{display:none;} pre\[class\*='language-'\]{border-radius:10px;margin-bottom:20px;} code{background:#2d2d2d;padding:0.5em;} code\[class\*='language-'\]{padding:0;} pre\[class\*='language-'\],code\[class\*='language-'\]{font-family:'Fira Code',monospace;font-size:0.95em;} a{-webkit-text-decoration:none;text-decoration:none;color:#6196cc;} a:visited{color:#6196cc;} .footer-container{font-size:24px;padding:2em 0;} .footer-container>p{font-size:0.6em;} window.dataLayer = window.dataLayer || \[\]; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-130596321-1'); 
-
-How to do this in Flutter?
-==========================
-
-[Star](https://github.com/lesnitsky/howtodothisinflutter)
-
-[Follow @lesnitsky\_a](https://twitter.com/lesnitsky_dev?ref_src=twsrc%5Etfw)
-
-Flutter and dart cheat sheet  
-
--------------------------------
-
-Built with[![mdx](https://mdx-logo.now.sh/)](https://mdxjs.com/)and[](https://nextjs.org/)[byLESNITSKY](https://lesnitsky.dev?utm_soruce=howtodothisinflutter)
-
-Contributions are very welcome![](https://github.com/lesnitsky/howtodothisinflutter)
 
 Table of contents
 -----------------
@@ -618,11 +602,3 @@ Debounce
     
 
 [⏫ ToC](#table-of-contents)
-
-Built with[![mdx](https://mdx-logo.now.sh/)](https://mdxjs.com/)and[](https://nextjs.org/)[byLESNITSKY](https://lesnitsky.dev?utm_soruce=howtodothisinflutter)
-
-Contributions are very welcome![](https://github.com/lesnitsky/howtodothisinflutter)
-
-MIT © [Lesnitsky](https://lesnitsky.dev)
-
-\_\_NEXT\_DATA\_\_ = {"props":{"pageProps":{}},"page":"/","query":{},"buildId":"46tr\_wwnJOzjqc\_l99\_gi","nextExport":true};\_\_NEXT\_LOADED\_PAGES\_\_=\[\];\_\_NEXT\_REGISTER\_PAGE=function(r,f){\_\_NEXT\_LOADED\_PAGES\_\_.push(\[r, f\])}
